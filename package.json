@@ -1,0 +1,26 @@
+{
+  "name": "welcome",
+  "version": "1.0.0",
+  "description": "Discord Welcome Bot",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/discord-welcome-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/discord-welcome-bot/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/discord-welcome-bot#readme"
+}
